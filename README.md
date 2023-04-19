@@ -1,7 +1,5 @@
 # android-stuff
 
-Ingenieurpraktikum
-
 Vuzix Blade 2 application:
 function:
   generate personalised to-do list (alarm, timer, etc. included), set up calendar, plan schedule.
